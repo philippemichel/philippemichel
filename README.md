@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philippemichel
 - 👀 I’m interested in medical statistic, especially intensive care
 - 🌱 I’m currently learning R
-- 📫 How to reach me <philippe/michel@ght-novo.fr>
+- 📫 How to reach me <philippe@doctor-michel.fr>
 
 <!---
 philippemichel/philippemichel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
