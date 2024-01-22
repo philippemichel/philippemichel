@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philippemichel
-- 👀 I’m interested in medical statistic, especially intensive care
+- 👀 I’m interested in medical statistic
 - 🌱 I’m currently learning R
 - 📫 How to reach me <philippe@docteur-michel.fr>
 
