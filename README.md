@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @philippemichel
+- 👋 Hi, I’m @philippemichel from **DocPhilmStat**
 - 👀 I’m interested in medical statistic
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning & teaching R
 - 📫 How to reach me <philippe@docteur-michel.fr>
 
 You will be able to find here the code (mainly R and $\LaTeX$, a little HTML and PHP) of the various studies to which I contribute as data scientist. 
